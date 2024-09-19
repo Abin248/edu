@@ -1,0 +1,35 @@
+.bgrd{
+    background-color: #1f4179e9; 
+    background-position: 20%;
+    margin: 10%;
+}
+
+h1, nav, a, select, option {
+    color: #ffffff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2, p{
+    color: #ffffff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20%;
+}
+button{
+    color: #ffffff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.btn {
+    color: #ffffff; 
+}
+
+.btn1 {
+    color: rgb(70, 137, 189);
+}
+
+.btn2{
+    background-color: rgb(75, 160, 231);
+    border-radius: 20px;
+    color: #ffffff; 
+}
+
