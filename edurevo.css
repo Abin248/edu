@@ -4,12 +4,17 @@
     margin: 10%;
 }
 
-h1, nav, a, select, option {
+h1{
     color: #ffffff;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-h2, p{
+h2{
     color: #ffffff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20%;
+}
+p{
+    color: #ffffff97;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-left: 20%;
 }
@@ -20,7 +25,7 @@ button{
 
 
 .btn {
-    color: #ffffff; 
+    color: #ffffffad; 
 }
 
 .btn1 {
